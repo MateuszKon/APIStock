@@ -1,5 +1,9 @@
 # APIStock
 
+# DISCLAIMER
+
+APIStock will be client for **[APIStockServer](https://github.com/MateuszKon/APIStockServer)**. Currently it has unecessary modules etc. as idea of creating this project as separated client from server appeared to me after starting this repo. This repo stayes for future use (or might be deleted and started once again later). 
+
 ## Intro
 
 APIStock will use [Finnhub](https://finnhub.io/) API for viewing current stock values.
